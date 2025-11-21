@@ -1,3 +1,4 @@
+Option Explicit
 Public Sub PasteObject()
     Dim sel As Selection
     Dim shp As Shape
